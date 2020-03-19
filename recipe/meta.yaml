@@ -20,10 +20,10 @@ requirements:
     - {{ compiler('cxx') }}
   host:
     - python
-    - triqs 2.2
+    - triqs {{ '.'.join(version.split('.')[:2]) }}
   run:
     - python
-    - triqs 2.2
+    - {{ pin_compatible("triqs", max_pin="x.x") }}
 
 test:
   imports:
