@@ -31,7 +31,7 @@ test:
 
 about:
   home: https://triqs.github.io/dft_tools
-  license: GPLv3
+  license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE.txt
   summary: 'Toolbox for ab initio calculations of correlated materials'
