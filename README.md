@@ -3,7 +3,7 @@ About triqs_dft_tools
 
 Home: https://triqs.github.io/dft_tools
 
-Package license: GPLv3
+Package license: GPL-3.0-or-later
 
 Feedstock license: BSD 3-Clause
 
