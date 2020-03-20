@@ -19,8 +19,10 @@ requirements:
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}
   host:
+    - python
     - triqs 2.2
   run:
+    - python
     - triqs 2.2
 
 test:
