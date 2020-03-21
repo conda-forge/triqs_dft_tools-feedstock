@@ -20,6 +20,7 @@ requirements:
     - {{ compiler('cxx') }}
     - {{ compiler('fortran') }}
   host:
+    - boost-cpp
     - python
     - triqs {{ '.'.join(version.split('.')[:2]) }}
   run:
