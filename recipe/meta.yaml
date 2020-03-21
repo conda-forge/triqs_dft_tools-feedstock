@@ -9,7 +9,7 @@ source:
   sha256: 9836b2e4ef1ba6fef2d9276e0a43cf13a68b1626f0e4fae312fba5f7c888a49a
 
 build:
-  number: 0
+  number: 1
   skip: True  # [win or py>30]
 
 requirements:
@@ -20,10 +20,10 @@ requirements:
     - {{ compiler('cxx') }}
   host:
     - python
-    - triqs 2.2
+    - triqs {{ '.'.join(version.split('.')[:2]) }}
   run:
     - python
-    - triqs 2.2
+    - {{ pin_compatible("triqs", max_pin="x.x") }}
 
 test:
   imports:
@@ -31,7 +31,7 @@ test:
 
 about:
   home: https://triqs.github.io/dft_tools
-  license: GPLv3
+  license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE.txt
   summary: 'Toolbox for ab initio calculations of correlated materials'
