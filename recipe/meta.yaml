@@ -20,12 +20,18 @@ requirements:
     - {{ compiler('cxx') }}
     - {{ compiler('fortran') }}
   host:
-    - boost-cpp
-    - python
     - triqs {{ '.'.join(version.split('.')[:2]) }}
-  run:
+    - boost-cpp
+    - {{ mpi }}
+    - libblas
+    - liblapack
     - python
+  run:
     - {{ pin_compatible("triqs", max_pin="x.x") }}
+    - {{ mpi }}
+    - libblas
+    - liblapack
+    - python
 
 test:
   imports:
