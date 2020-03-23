@@ -34,8 +34,13 @@ requirements:
     - python
 
 test:
-  imports:
-    - triqs_dft_tools
+  commands:
+    - export OMPI_MCA_btl=self,tcp
+    - export OMPI_MCA_plm=isolated
+    - export OMPI_MCA_rmaps_base_oversubscribe=yes
+    - export OMPI_MCA_btl_vader_single_copy_mechanism=none
+    - export mpiexec="mpiexec --allow-run-as-root"
+    - python -c "import triqs_dft_tools"
 
 about:
   home: https://triqs.github.io/dft_tools
