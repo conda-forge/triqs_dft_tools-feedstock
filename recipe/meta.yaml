@@ -1,4 +1,4 @@
-{% set version = "2.2.1" %}
+{% set version = "3.0.0" %}
 
 package:
   name: triqs_dft_tools
@@ -6,11 +6,11 @@ package:
 
 source:
   url: https://github.com/TRIQS/dft_tools/releases/download/{{ version }}/dft_tools-{{ version }}.tar.gz
-  sha256: 0e3cf9d881becec93783999bc28468a3a5a862451b60c9c9c7b9dbb07f76ac22
+  sha256: 646d1d2dca5cf6ad90e18d0706124f701aa94ec39c5236d8fcf36dc5c628a3f6
 
 build:
-  number: 4
-  skip: True  # [win or py>30]
+  number: 0
+  skip: true  # [win or py>30]
 
 requirements:
   build:
@@ -47,7 +47,7 @@ about:
   license: GPL-3.0-or-later
   license_family: GPL
   license_file: LICENSE.txt
-  summary: 'Toolbox for ab initio calculations of correlated materials'
+  summary: Toolbox for ab initio calculations of correlated materials
 
 extra:
   recipe-maintainers:
