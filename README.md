@@ -27,451 +27,115 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.6.____cpython</td>
+              <td>linux_64_mpimpichpython3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpimpichpython3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.7.____cpython</td>
+              <td>linux_64_mpimpichpython3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpimpichpython3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.8.____cpython</td>
+              <td>linux_64_mpimpichpython3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpimpichpython3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.9.____cpython</td>
+              <td>linux_64_mpimpichpython3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpimpichpython3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.6.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpiopenmpipython3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.7.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpiopenmpipython3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.8.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpiopenmpipython3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.9.____cpython</td>
+              <td>linux_64_mpiopenmpipython3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_mpiopenmpipython3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.6.____cpython</td>
+              <td>osx_64_mpimpichpython3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpimpichpython3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.7.____cpython</td>
+              <td>osx_64_mpimpichpython3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpimpichpython3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.8.____cpython</td>
+              <td>osx_64_mpimpichpython3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpimpichpython3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.9.____cpython</td>
+              <td>osx_64_mpimpichpython3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpimpichpython3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.6.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.10.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.6.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpiopenmpipython3.10.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.7.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.7.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.7.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpiopenmpipython3.7.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.8.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpiopenmpipython3.8.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.9.____cpython</td>
+              <td>osx_64_mpiopenmpipython3.9.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.72.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version7cxx_compiler_version7fortran_compiler_version7mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.74.0c_compiler_version9cxx_compiler_version9fortran_compiler_version9mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version7mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.72.0fortran_compiler_version9mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version7mpiopenmpipython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpimpichpython3.9.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.6.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.6.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.7.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.7.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.8.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.8.____cpython" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.9.____cpython</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=9296&branchName=master">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.74.0fortran_compiler_version9mpiopenmpipython3.9.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/triqs_dft_tools-feedstock?branchName=master&jobName=osx&configuration=osx_64_mpiopenmpipython3.9.____cpython" alt="variant">
                 </a>
               </td>
             </tr>
@@ -496,6 +160,7 @@ Installing `triqs_dft_tools` from the `conda-forge` channel can be achieved by a
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `triqs_dft_tools` can be installed with:
@@ -514,7 +179,8 @@ conda search triqs_dft_tools --channel conda-forge
 About conda-forge
 =================
 
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+[![Powered by
+NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://numfocus.org)
 
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
@@ -566,9 +232,9 @@ build distinct package versions.
 
 In order to produce a uniquely identifiable distribution:
  * If the version of a package **is not** being increased, please add or increase
-   the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string).
+   the [``build/number``](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string).
  * If the version of a package **is** being increased, please remember to return
-   the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
+   the [``build/number``](https://docs.conda.io/projects/conda-build/en/latest/resources/define-metadata.html#build-number-and-string)
    back to 0.
 
 Feedstock Maintainers
