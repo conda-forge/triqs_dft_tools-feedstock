@@ -1,11 +1,11 @@
-About triqs_dft_tools
-=====================
+About triqs_dft_tools-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/triqs_dft_tools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://triqs.github.io/dft_tools
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/triqs_dft_tools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Toolbox for ab initio calculations of correlated materials
 
