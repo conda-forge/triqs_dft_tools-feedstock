@@ -9,28 +9,34 @@ source:
   sha256: 77d89bc5c9a36636a720b6cae78967cd6dd83d0018c854a68bef91219a456307
 
 build:
-  number: 2
+  number: 3
   skip: true  # [win or py<30]
 
 requirements:
   build:
+    - python                                 # [build_platform != target_platform]
+    - cross-python_{{ target_platform }}     # [build_platform != target_platform]
+    - numpy                                  # [build_platform != target_platform]
     - cmake
     - make
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}
     - {{ compiler('fortran') }}
+    - {{ mpi }}                              # [mpi == 'openmpi' and build_platform != target_platform]
   host:
     - triqs {{ '.'.join(version.split('.')[:2]) }}
     - boost-cpp
     - {{ mpi }}
     - libblas
     - liblapack
+    - numpy
     - python
   run:
     - {{ pin_compatible("triqs", max_pin="x.x") }}
     - {{ mpi }}
     - libblas
     - liblapack
+    - {{ pin_compatible("numpy") }}
     - python
 
 test:
