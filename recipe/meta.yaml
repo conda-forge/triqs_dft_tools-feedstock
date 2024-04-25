@@ -1,4 +1,4 @@
-{% set version = "3.2.0" %}
+{% set version = "3.2.1" %}
 
 package:
   name: triqs_dft_tools
@@ -6,10 +6,10 @@ package:
 
 source:
   url: https://github.com/TRIQS/dft_tools/releases/download/{{ version }}/dft_tools-{{ version }}.tar.gz
-  sha256: 77d89bc5c9a36636a720b6cae78967cd6dd83d0018c854a68bef91219a456307
+  sha256: 772d9326056faa3afc5a6d4ea04bdf8d18359bab518db29f68b1c2136c34b7d3
 
 build:
-  number: 5
+  number: 0
   skip: true  # [win or py<30]
 
 requirements:
@@ -20,6 +20,7 @@ requirements:
     - cmake
     - make
     - {{ compiler('c') }}
+    - {{ stdlib("c") }}
     - {{ compiler('cxx') }}
     - {{ compiler('fortran') }}
     - {{ mpi }}                              # [mpi == 'openmpi' and build_platform != target_platform]
