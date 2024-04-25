@@ -24,7 +24,9 @@ requirements:
     - {{ compiler('cxx') }}
     - {{ compiler('fortran') }}
     - {{ mpi }}                              # [mpi == 'openmpi' and build_platform != target_platform]
-    - meson  # [py>=312]
+    - meson        # [py>=312]
+    - setuptools   # [py>=312]
+    - ninja        # [py>=312]
   host:
     - triqs {{ '.'.join(version.split('.')[:2]) }}
     - libboost-headers
