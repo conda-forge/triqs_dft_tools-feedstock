@@ -16,11 +16,6 @@ if [[ "${CONDA_BUILD_CROSS_COMPILATION:-0}" == "1" ]]; then
     echo "[properties]" >> ${CONDA_PREFIX}/meson_cross_file.txt
     echo "longdouble_format = 'IEEE_DOUBLE_LE'" >> ${CONDA_PREFIX}/meson_cross_file.txt
 
-    # Change the build directory of f2py (to have access to meson logs)
-    cmake_file=../python/triqs_dft_tools/converters/elktools/elkwrappers/CMakeLists.txt
-    sed 's|numpy.f2py|numpy.f2py --build-dir ${CMAKE_CURRENT_BINARY_DIR}/meson|' ${cmake_file} > tmp_file
-    cp tmp_file ${cmake_file}
-
     # Change the f2py module to use meson for cross compilation
     f2py_file=${BUILD_PREFIX}/lib/python3.12/site-packages/numpy/f2py/_backends/_meson.py
     sed "s|\"setup\",|\"setup\"] + [x for x in \"${MESON_ARGS}\".split()] + [|" ${f2py_file} > tmp_file
