@@ -8,9 +8,9 @@ if [[ "${CONDA_BUILD_CROSS_COMPILATION:-0}" == "1" ]]; then
   # Openmpi
   export OPAL_PREFIX="$PREFIX"
 
-  # Hack for python 3.12
+  # Hack for python > 3.11
   py_version=$( python -c "import sys; print('{}.{}'.format(sys.version_info[0], sys.version_info[1]))" )
-  if [[ "$py_version" == "3.12" ]]; then
+  if [[ "$py_version" > "3.11" ]]; then
     # Change the meson_cross_file.txt (see https://github.com/conda-forge/numpy-feedstock/blob/main/recipe/build.sh)
     echo "python = '${PREFIX}/bin/python'" >> ${CONDA_PREFIX}/meson_cross_file.txt
     echo "[properties]" >> ${CONDA_PREFIX}/meson_cross_file.txt
