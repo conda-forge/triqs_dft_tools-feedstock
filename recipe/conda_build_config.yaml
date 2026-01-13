@@ -5,3 +5,5 @@ c_compiler_version:
   - '13'  # [linux]
 cxx_compiler_version:
   - '13'  # [linux]
+fortran_compiler_version:
+  - '13'  # [linux]
