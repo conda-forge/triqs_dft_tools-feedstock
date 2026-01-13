@@ -1,3 +1,5 @@
 mpi:
   - mpich
   - openmpi
+fortran_compiler_version:
+  - '13'  # [osx-arm64]
