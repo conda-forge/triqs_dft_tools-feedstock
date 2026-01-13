@@ -19,7 +19,7 @@ docker_image:
 fortran_compiler:
 - gfortran
 fortran_compiler_version:
-- '14'
+- '13'
 libblas:
 - 3.9.* *netlib
 libboost_headers:
